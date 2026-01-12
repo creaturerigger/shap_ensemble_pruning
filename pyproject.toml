@@ -1,0 +1,18 @@
+[project]
+name = "featureextractor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
+    "prefect>=3.4.5",
+    "psycopg2-binary>=2.9.10",
+    "python-dotenv>=1.1.0",
+    "scikit-learn>=1.7.0",
+    "shap>=0.47.2",
+    "sqlalchemy>=2.0.41",
+    "torch>=2.7.1",
+    "torchvision>=0.22.1",
+]

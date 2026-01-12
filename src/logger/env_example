@@ -1,0 +1,3 @@
+POSTGRES_USER=<user_name>
+PSQL_PASSWORD=<password>
+DB_NAME=<db_name>
